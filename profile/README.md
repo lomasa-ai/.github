@@ -7,7 +7,7 @@
                                                                                                                                        
   This organisation is a personal sandbox for exploratory side projects built by
   [@shivamsbajpai](https://github.com/shivamsbajpai) in collaboration with AI
-  assistant [@claudeforssb](https://github.com/claudeforssb). Every repo here                                                          
+  assistant [Tvash](https://github.com/claudeforssb). Every repo here                                                          
   started as an idea and was brought to life through human-AI pair programming.
                                                                                                                                        
   ### 🔨 What gets built here?                                    
